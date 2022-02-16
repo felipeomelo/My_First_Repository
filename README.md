@@ -1,2 +1,2 @@
 # My_First_Repository
-Meu primeiro repositório
+Meu primeiro repositório (Exercício prático)
